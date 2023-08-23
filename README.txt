@@ -57,4 +57,4 @@ Note
 
 Due to data privacy and protection considerations, some of the data files
  used in the research are not included like the images used. If you're 
-interested you can email me at - sericsheon@gmail.com and i send them to you.
+interested you can email me at - sericsheon@gmail.com and i will send them to you.
