@@ -58,3 +58,6 @@ Note
 Due to data privacy and protection considerations, some of the data files
  used in the research are not included like the images used. If you're 
 interested you can email me at - sericsheon@gmail.com and i will send them to you.
+
+
+The posted thesis can be found here: http://hdl.handle.net/20.500.11956/192561
